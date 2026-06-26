@@ -1,4 +1,4 @@
-# Hi, I'm Yashwanth Gowda
+# Hi, I'm Yashwanth Gowda V P
 
 Computer Science and Engineering (CSE) student passionate about web development, programming, and modern user interface design. I enjoy building responsive web applications and continuously improving my technical skills through practical projects.
 
