@@ -91,8 +91,7 @@ https://github.com/YASHWANTH0212/CalcPro
 GitHub:
 https://github.com/YASHWANTH0212
 
-Email:
-your-email@example.com
+Email:yashwanthgowdavpyashu@gmail.com
 
 ---
 
